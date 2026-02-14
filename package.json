@@ -1,0 +1,11 @@
+
+{
+  "name": "tax-ai-brasil",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Assistente Tributário Inteligente - IAgentics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
